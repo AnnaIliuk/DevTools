@@ -1,7 +1,7 @@
 # DevTools
 
-1 - 23 шаги https://clipchamp.com/watch/RC2bCKJFpkq
-24 - 52 шаги 
+https://clipchamp.com/watch/RC2bCKJFpkq
+
 
 1. Открыть Chrome DevTools
 2. Зайти в панель Elements.
