@@ -1,8 +1,8 @@
 # DevTools
 
-https://clipchamp.com/watch/RC2bCKJFpkq
-https://clipchamp.com/watch/K98YfsermlA
-https://clipchamp.com/watch/dZ02LLVxURz
+# https://clipchamp.com/watch/RC2bCKJFpkq
+# https://clipchamp.com/watch/K98YfsermlA
+# https://clipchamp.com/watch/dZ02LLVxURz
 
 
 1. Открыть Chrome DevTools
